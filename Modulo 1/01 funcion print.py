@@ -6,8 +6,8 @@ Ej:
 print(1)
 print(1.5,"abc") """
 
-print ("¡Hola, mundo!") #Imprime un mensaje en la pantalla
-#resultado: ¡Hola, mundo!
+print ("Hola mundo!") #Imprime un mensaje en la pantalla
+#resultado: Hola mundo!
 print (1) #Imprime un número entero
 #resultado: 1
 print (1.5, "abc") #Imprime un número decimal y una cadena de texto
