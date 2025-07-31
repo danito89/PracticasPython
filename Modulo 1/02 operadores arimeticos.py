@@ -37,3 +37,5 @@ print(10 % 2) # Resto de división entera, (para saber si es par o impar)
 
 print(11 % 2) # Resto de división entera, (para saber si es par o impar)
 #resultado 1
+
+
