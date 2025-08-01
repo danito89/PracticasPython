@@ -10,7 +10,9 @@ print("abc"+"123")
 print("Hola, " + "mundo!")
 #resultado Hola, mundo!
 
-#"Variables.
+#----------------------------------------------------------
+
+#VARIABLES
 """Es el nombre que se le da al valor de una expresión.
 
 La instrucción de asignación crea una variable y le asigna el valor y el tipo de datos de la expresión.
