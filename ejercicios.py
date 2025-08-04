@@ -11,3 +11,5 @@ b=3
 cociente = (a + b) / (a - b)
 print(cociente)
 #resultado 4.0
+
+type (8/4)
